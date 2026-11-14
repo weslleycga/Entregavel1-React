@@ -1,0 +1,11 @@
+.header {
+  background: #20232a;
+  color: #61dafb;
+  padding: 24px;
+  text-align: center;
+}
+
+.header p {
+  color: #ffffff;
+  margin-top: 8px;
+}

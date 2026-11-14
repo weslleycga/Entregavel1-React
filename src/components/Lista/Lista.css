@@ -1,0 +1,22 @@
+.lista {
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  padding: 20px 28px;
+  max-width: 560px;
+  margin: 32px auto 0;
+}
+
+.lista h2 {
+  color: #20232a;
+  margin-bottom: 12px;
+}
+
+.lista li {
+  padding: 6px 0;
+  border-bottom: 1px solid #eeeeee;
+}
+
+.lista li:last-child {
+  border-bottom: none;
+}
